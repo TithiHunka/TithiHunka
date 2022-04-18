@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TithiHunka 
-- 🌱 I’m currently learning Python, Tableau, Machine Learning, SQL
+- 🌱 I’m currently learning Python, Tableau, Machine Learning, Artificial Intelligence, SQL
 - 🌱I’m currently working on learning and experimenting with the languages
 - 📫 How to reach me tithihunka@gmail.com, https://www.linkedin.com/in/tithi-hunka-7005b6115
 - 🌈I am comfortable with: 
