@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @TithiHunka 
 - 🌱 I’m currently learning Python, Taleau, Machine Learning, SQL
 - 🌱I’m currently working on learning and experimenting with the languages
-- 📫 How to reach me 
-- 🌈I am comfortable with:
-Languages - Python3, R, SQL.
+- 📫 How to reach me tithihunka@gmail.com,https://www.linkedin.com/in/tithi-hunka-7005b6115
+- 🌈I am comfortable with: 
+Languages - Python3, SQL.
 Tools used - Tableau, Jupyter Notebook, SQL Server, Google Colab, Oracle 
 Operating System - Windows7, Windows10
 <!---
