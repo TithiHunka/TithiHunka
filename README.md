@@ -4,7 +4,7 @@
 - 📫 How to reach me tithihunka@gmail.com, https://www.linkedin.com/in/tithi-hunka-7005b6115
 - 🌈I am comfortable with: 
 Languages - Python3, SQL.
-Tools used - Tableau, Jupyter Notebook, SQL Server, Google Colab, Oracle 
+Tools - Tableau, Jupyter Notebook, SQL Server, Google Colab, Oracle 
 Operating System - Windows7, Windows10
 <!---
 TithiHunka/TithiHunka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
