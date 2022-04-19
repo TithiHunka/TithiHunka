@@ -1,5 +1,6 @@
-![]()
-- 👋 Hi, I’m @TithiHunka 
+![](https://github.com/TithiHunka/TithiHunka/blob/main/Images/images.png)
+👋 I'm TITHI
+-------------
 - 🌱 I’m currently learning Python, Tableau, Machine Learning, Artificial Intelligence, SQL
 - 🌱I’m currently working on learning and experimenting with the languages
 - 📫 How to reach me `<Mail>` : <tithihunka@gmail.com>,`<LinkedIn>` : <https://www.linkedin.com/in/tithi-hunka-7005b6115>
