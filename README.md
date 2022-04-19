@@ -10,7 +10,7 @@
      
       Tools - Tableau, Jupyter Notebook, SQL Server, Google Colab, Oracle.
       
-      Operating System - Windows7, Windows10
+      Operating System - Windows7, Windows10.
 <!---
 TithiHunka/TithiHunka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
